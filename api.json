@@ -1,0 +1,1472 @@
+{
+    "articleRefs": {
+        "526254": {
+            "id": "526254",
+            "timePublished": "2020-11-03T09:30:06+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "GitHub начал предупреждать пользователей о бане после репостов удалённого репозитория youtube-dl",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 34,
+                "favoritesCount": 4,
+                "readingCount": 8964,
+                "score": 15,
+                "votesCount": 19
+            },
+            "hubs": [
+                {
+                    "id": "144",
+                    "alias": "open_source",
+                    "type": "collective",
+                    "title": "Open source"
+                },
+                {
+                    "id": "18790",
+                    "alias": "github",
+                    "type": "collective",
+                    "title": "GitHub"
+                },
+                {
+                    "id": "20738",
+                    "alias": "business-laws",
+                    "type": "collective",
+                    "title": "Законодательство в IT"
+                },
+                {
+                    "id": "21896",
+                    "alias": "copyright",
+                    "type": "collective",
+                    "title": "Копирайт"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 34,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T09:30:06+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/getpro/habr/post_images/cca/95c/591/cca95c5910dbe8a03a77d67eaa77c162.png\" alt=\"image\"><sub><font color=\"grey\"><i>Фото: torrentfreak.com</i></font></sub><br>\r\n<br>\r\nПосле того, как по жалобе американской ассоциации звукозаписывающих компаний (RIAA) репозиторий программы youtube-dl и его популярные форки <a href=\"https://habr.com/ru/news/t/524858/\">удалили</a> с GitHub из-за нарушения DMCA, пользователи и разработчики в знак протеста <a href=\"https://habr.com/ru/news/t/525030/\">прикрепили</a> код прямо к репозиторию, где сервис хранит уведомления от правообладетелей. В ответ Github начал предупреждать их о приостановке и потенциальной блокировке учетных записей.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526258": {
+            "id": "526258",
+            "timePublished": "2020-11-03T09:45:59+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "В реестр организаторов распространения информации добавили «Пикабу» и «ЯПлакалъ»",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2288880",
+                "login": "avouner",
+                "alias": "avouner",
+                "fullname": "Александр Тернавский",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/5b8/689/12b/5b868912b9569a8e0a05986ea44b9e1c.jpg",
+                "speciality": "Редактор"
+            },
+            "statistics": {
+                "commentsCount": 21,
+                "favoritesCount": 6,
+                "readingCount": 6802,
+                "score": 16,
+                "votesCount": 16
+            },
+            "hubs": [
+                {
+                    "id": "21924",
+                    "alias": "social_networks",
+                    "type": "collective",
+                    "title": "Социальные сети и сообщества"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 21,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T09:45:59+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<p>Роскомнадзор внёс в реестр организаторов распространения информации (ОРИ) развлекательные порталы «Пикабу» и «ЯПлакалъ». На это <a href=\"https://roskomsvoboda.org/65901/\" rel=\"noopener noreferrer nofollow\">обратила</a> внимание «Роскомсвобода», которая провела мониторинг реестра.&nbsp;</p>",
+                "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/063/c9d/031/063c9d031ba8b5570a51c3c57bfbcfab.jpg",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/getpro/habr/upload_files/063/c9d/031/063c9d031ba8b5570a51c3c57bfbcfab.jpg",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            }
+        },
+        "526270": {
+            "id": "526270",
+            "timePublished": "2020-11-03T11:23:15+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "BlizzСonline 2021 будет бесплатным для всех участников",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2316183",
+                "login": "WubbaLubba",
+                "alias": "WubbaLubba",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/f5f/5dd/e3f/f5f5dde3f50040d7012457dcba8b06ad.png",
+                "speciality": "Пользователь"
+            },
+            "statistics": {
+                "commentsCount": 1,
+                "favoritesCount": 0,
+                "readingCount": 2272,
+                "score": 9,
+                "votesCount": 11
+            },
+            "hubs": [
+                {
+                    "id": "20754",
+                    "alias": "tech_events",
+                    "type": "collective",
+                    "title": "Конференции"
+                },
+                {
+                    "id": "21980",
+                    "alias": "games",
+                    "type": "collective",
+                    "title": "Игры и игровые приставки"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "4",
+                    "alias": "marketing",
+                    "title": "Маркетинг"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 1,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T11:23:15+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<p>Президент компании Аллен Брак объявил, что BlizzСonline станет бесплатным для просмотра и участия. Ранее за виртуальный билет просили 40 долларов.</p>",
+                "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/f7b/ddf/164/f7bddf164ecce4e6d6468ff56b7764c7",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/getpro/habr/upload_files/f7b/ddf/164/f7bddf164ecce4e6d6468ff56b7764c7",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            }
+        },
+        "526272": {
+            "id": "526272",
+            "timePublished": "2020-11-03T12:31:00+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Из-за просроченного сертификата CDN у GitHub «поехала» вёрстка. Проблему исправили",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "login": "denis-19",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Инженер, редакция Хабра"
+            },
+            "statistics": {
+                "commentsCount": 1,
+                "favoritesCount": 2,
+                "readingCount": 2480,
+                "score": 3,
+                "votesCount": 7
+            },
+            "hubs": [
+                {
+                    "id": "18790",
+                    "alias": "github",
+                    "type": "collective",
+                    "title": "GitHub"
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 1,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T12:31:00+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/ra/pb/cv/rapbcvn8ynret8dbtipzntns8di.png\"><br>\r\n<i>Внешний вид веб-интерфейса GitHub 2 ноября 2020 года (примерно с 2 до 3 часов ночи по московскому времени). Нормально отображался текст, ссылки и эскизы.</i><br>\r\n<br>\r\nПо <a href=\"https://www.bleepingcomputer.com/news/security/github-breaks-site-layout-after-forgetting-to-renew-certificate/\" rel=\"nofollow\">информации</a> издания Bleeping Computer, сегодня ночью в течение часа веб-интерфейс сервиса GitHub не работал как положено. В нем не было изображений, также пользователи <a href=\"https://twitter.com/Jannev252/status/1323244556213772288\" rel=\"nofollow\">фиксировали</a> проблемы с работой JavaScript-сценариев. <br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526292": {
+            "id": "526292",
+            "timePublished": "2020-11-03T13:17:55+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "НАСА высказалось против спутников связи 5G из-за риска «катастрофического столкновения»",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 6,
+                "favoritesCount": 1,
+                "readingCount": 4308,
+                "score": 11,
+                "votesCount": 11
+            },
+            "hubs": [
+                {
+                    "id": "17201",
+                    "alias": "wireless",
+                    "type": "collective",
+                    "title": "Беспроводные технологии"
+                },
+                {
+                    "id": "21962",
+                    "alias": "space",
+                    "type": "collective",
+                    "title": "Космонавтика"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "6",
+                    "alias": "admin",
+                    "title": "Администрирование"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 6,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T13:17:55+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/getpro/habr/post_images/45a/040/fc2/45a040fc2a8d42664791559b3aa60cd9.jpg\" alt=\"image\"><br>\r\n<br>\r\nНАСА официально <a href=\"https://arstechnica.com/science/2020/11/nasa-objects-to-new-megaconstellation-citing-risk-of-catastrophic-collison/\" rel=\"nofollow\">прокомментировало</a> запрос американской компании <a href=\"https://ast-science.com/\" rel=\"nofollow\">AST &amp; Science</a> о создании мегасозвездия спутников на высоте 720 км над поверхностью Земли, которое находится на рассмотрении Федеральной комиссии по связи США.<br>\r\n<br>\r\nЭто первый раз, когда НАСА публично высказывается по поводу такого рода запроса.<br>\r\n<br>\r\nВ агентстве заявили о своих опасениях в связи с тем, что новая группировка спутников повысит опасность столкновений до критического уровня.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526314": {
+            "id": "526314",
+            "timePublished": "2020-11-03T14:55:10+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "«Яндекс» и Mail.ru работают над аналогами Zoom для российских школьников",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2288880",
+                "login": "avouner",
+                "alias": "avouner",
+                "fullname": "Александр Тернавский",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/5b8/689/12b/5b868912b9569a8e0a05986ea44b9e1c.jpg",
+                "speciality": "Редактор"
+            },
+            "statistics": {
+                "commentsCount": 29,
+                "favoritesCount": 1,
+                "readingCount": 4180,
+                "score": 6,
+                "votesCount": 6
+            },
+            "hubs": [
+                {
+                    "id": "21924",
+                    "alias": "social_networks",
+                    "type": "collective",
+                    "title": "Социальные сети и сообщества"
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании"
+                },
+                {
+                    "id": "22294",
+                    "alias": "video_conferencing",
+                    "type": "collective",
+                    "title": "Видеоконференцсвязь"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 29,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T14:55:10+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<p>Компании «Яндекс» и Mail.Ru Group анонсировали сервисы видеоконференций для учащихся в российских школах. Их разрабатывают при поддержке «Ростелекома» и начнут использоваться в учебных заведениях к 2022 году, <a href=\"https://www.facebook.com/watch/live/?v=871716956696962&amp;ref=watch_permalink\" rel=\"noopener noreferrer nofollow\">сообщил</a> министр цифрового развития Максут Шадаев в ходе заседания Совета Федерации.&nbsp;</p>",
+                "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/9a5/b52/78b/9a5b5278bcabb502f52fe206edc0ae21.jpg",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/getpro/habr/upload_files/9a5/b52/78b/9a5b5278bcabb502f52fe206edc0ae21.jpg",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            }
+        },
+        "526318": {
+            "id": "526318",
+            "timePublished": "2020-11-03T15:07:18+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Исследование экосистемы Elixir в СНГ 2020 и анонс очередного Elixir Meetup Online",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "139041",
+                "login": "soif",
+                "alias": "soif",
+                "fullname": "Трофим",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/390/3cd/328/3903cd3288a84b3b64b102e9b54117bf.png",
+                "speciality": "Product Development Services"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 1,
+                "readingCount": 549,
+                "score": 4,
+                "votesCount": 4
+            },
+            "hubs": [
+                {
+                    "id": "17853",
+                    "alias": "funcprog",
+                    "type": "collective",
+                    "title": "Функциональное программирование"
+                },
+                {
+                    "id": "20754",
+                    "alias": "tech_events",
+                    "type": "collective",
+                    "title": "Конференции"
+                },
+                {
+                    "id": "20906",
+                    "alias": "elixirphoenix",
+                    "type": "collective",
+                    "title": "Elixir/Phoenix"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                },
+                {
+                    "id": "4",
+                    "alias": "marketing",
+                    "title": "Маркетинг"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 0,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T15:07:18+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<p><strong>Первая хорошая новость</strong>: мы анонсируем <strong>третий</strong> онлайн митап по Elixir!</p><p>Митап пройдет уже в этот четверг, 5 ноября, в 19:00 по московскому времени. Цель — как и всегда: обьединить все международное (но русскоязычное) сообщество программистов на Elixir/Erlang/OTP на одном мероприятии, послушать про тренды и конечно же нетворкинг (в этот раз приготовили для нетворкинга кое-что новенькое!).</p>",
+                "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/f73/ac3/428/f73ac34281ede1b2044409199a0b127c",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/getpro/habr/upload_files/f73/ac3/428/f73ac34281ede1b2044409199a0b127c",
+                    "fit": "cover",
+                    "positionY": 24,
+                    "positionX": 5
+                }
+            }
+        },
+        "526352": {
+            "id": "526352",
+            "timePublished": "2020-11-03T16:47:22+00:00",
+            "isCorporative": true,
+            "lang": "ru",
+            "titleHtml": "Как построить эффективный Общий центр обслуживания. Приглашаем на вебинар",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "1484669",
+                "login": "it-guild",
+                "alias": "it-guild",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/b69/43b/a45/b6943ba4548aa319704be613d6b2dc47.jpg",
+                "speciality": "Пользователь"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 1,
+                "readingCount": 229,
+                "score": 3,
+                "votesCount": 3
+            },
+            "hubs": [
+                {
+                    "id": "21112",
+                    "alias": "it-guild",
+                    "type": "corporative",
+                    "title": "Блог компании ИТ Гильдия"
+                }
+            ],
+            "flows": [],
+            "relatedData": {
+                "unreadCommentsCount": 0,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T16:47:22+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/vs/hx/o-/vshxo-l9obkbk7pu3s7nmlyfzwc.png\" alt=\"image\"><br>\r\n<br>\r\nКомпания ИТ Гильдия открывает серию вебинаров «Как построить эффективный ОЦО», посвящённых построению и автоматизации Общих центров обслуживания. На вебинарах будет много интересного: разбор современных подходов и типичных ошибок при построении ОЦО, лучшие примеры автоматизации различных функций ОЦО и кейсы. <br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526358": {
+            "id": "526358",
+            "timePublished": "2020-11-03T17:03:00+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Oracle выпустила экстренный патч для WebLogic",
+            "editorVersion": "2.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "1411426",
+                "login": "grvelvet",
+                "alias": "grvelvet",
+                "fullname": "Александр Мейдер",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/cf8/c03/6a0/cf8c036a0db7294950b0c788871829f2.jpg",
+                "speciality": "Design"
+            },
+            "statistics": {
+                "commentsCount": 11,
+                "favoritesCount": 1,
+                "readingCount": 3002,
+                "score": 5,
+                "votesCount": 5
+            },
+            "hubs": [
+                {
+                    "id": "50",
+                    "alias": "infosecurity",
+                    "type": "collective",
+                    "title": "Информационная безопасность"
+                },
+                {
+                    "id": "312",
+                    "alias": "oracle",
+                    "type": "collective",
+                    "title": "Oracle"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 11,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T17:03:00+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<p>Oracle исправила на прошлой неделе более 400 уязвимостей в своих продуктах, и среди них была особо критическая уязвимость получившая идентификатор <a href=\"https://xakep.ru/2020/10/30/weblogic-attacks/\" rel=\"noopener noreferrer nofollow\">CVE-2020-14882</a>. Она набрала 9,8 баллов из 10 по шкале уязвимостей CVSS.</p>",
+                "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/159/a9d/52c/159a9d52c208f5084572005408103a36.png",
+                "buttonTextHtml": "Читать далее",
+                "image": {
+                    "url": "https://habrastorage.org/getpro/habr/upload_files/159/a9d/52c/159a9d52c208f5084572005408103a36.png",
+                    "fit": "cover",
+                    "positionY": 0,
+                    "positionX": 0
+                }
+            }
+        },
+        "526376": {
+            "id": "526376",
+            "timePublished": "2020-11-03T19:31:27+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "HabroSanitizer опубликован в Chrome Web Store",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "574551",
+                "login": "Drag13",
+                "alias": "Drag13",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/abc/4a4/fa0/abc4a4fa0e705dc40b55583a42921419.jpg",
+                "speciality": "Full-Stack developer JS + .NET"
+            },
+            "statistics": {
+                "commentsCount": 28,
+                "favoritesCount": 10,
+                "readingCount": 6472,
+                "score": 28,
+                "votesCount": 32
+            },
+            "hubs": [
+                {
+                    "id": "6103",
+                    "alias": "google_chrome",
+                    "type": "collective",
+                    "title": "Google Chrome"
+                },
+                {
+                    "id": "18921",
+                    "alias": "browser_extensions",
+                    "type": "collective",
+                    "title": "Расширения для браузеров"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 28,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-03T19:31:27+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<p>Итак, после нескольких дней ожидания (я думал это займет больше) и скромного взноса в виде 5 американских долларов, мое небольшое Хром-расширение для фильтрации ленты было опубликовано в Chrome Web Store и теперь доступно всем желающим без смс и регистрации (С)</p>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526404": {
+            "id": "526404",
+            "timePublished": "2020-11-04T06:25:30+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Американский ритейлер Walmart отказался от роботов сканирования полок стартапа Bossa Nova Robotics в пользу людей",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "login": "denis-19",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Инженер, редакция Хабра"
+            },
+            "statistics": {
+                "commentsCount": 26,
+                "favoritesCount": 2,
+                "readingCount": 6613,
+                "score": 10,
+                "votesCount": 12
+            },
+            "hubs": [
+                {
+                    "id": "20736",
+                    "alias": "hr_management",
+                    "type": "collective",
+                    "title": "Управление персоналом"
+                },
+                {
+                    "id": "21902",
+                    "alias": "robot",
+                    "type": "collective",
+                    "title": "Робототехника"
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 26,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-04T06:25:30+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/js/1o/qi/js1oqio57isrqpjif24cfmvqeyi.jpeg\"><br>\r\n<br>\r\nПо <a href=\"https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341\" rel=\"nofollow\">информации</a> издания Wall Street Journal, Walmart провел оптимизацию среди своих роботов-работников. Ритейлер отказался от автоматических систем производства Bossa Nova Robotics, которые предназначены для инвентаризации товаров в магазинах. До прекращения партнерства между компаниями около 500 роботов <a href=\"https://www.bossanova.com/robot\" rel=\"nofollow\">Bossa Nova</a> исправно функционировали в сети Walmart. <br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526412": {
+            "id": "526412",
+            "timePublished": "2020-11-04T09:33:07+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Гоночный робомобиль врезался в стену из-за присвоения одной переменной NaN",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 29,
+                "favoritesCount": 7,
+                "readingCount": 15510,
+                "score": 24,
+                "votesCount": 36
+            },
+            "hubs": [
+                {
+                    "id": "21902",
+                    "alias": "robot",
+                    "type": "collective",
+                    "title": "Робототехника"
+                },
+                {
+                    "id": "22004",
+                    "alias": "transport",
+                    "type": "collective",
+                    "title": "Транспорт"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 29,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-04T09:33:07+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<div class=\"oembed\"><iframe id=\"5fa2753b905dc4e15aeed7b3\" src=\"https://embedd.srv.habr.com/iframe/5fa2753b905dc4e15aeed7b3\"></iframe></div><br>\r\nРобомобиль Roborace, участник беспилотных автогонок в рамках этапов Формулы Е, врезался в бетонную стену во время прямой трансляции в Twitch. Инженеры из Сингапурского технологического института объяснили, почему все пошло не так.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526428": {
+            "id": "526428",
+            "timePublished": "2020-11-04T11:02:21+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "NetMarketShare сворачивает проект отчетов о браузерах из-за изменений в Google Chrome",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 7,
+                "favoritesCount": 3,
+                "readingCount": 5450,
+                "score": 13,
+                "votesCount": 13
+            },
+            "hubs": [
+                {
+                    "id": "19257",
+                    "alias": "browsers",
+                    "type": "collective",
+                    "title": "Браузеры"
+                },
+                {
+                    "id": "20688",
+                    "alias": "research",
+                    "type": "collective",
+                    "title": "Исследования и прогнозы в IT"
+                },
+                {
+                    "id": "21918",
+                    "alias": "soft",
+                    "type": "collective",
+                    "title": "Софт"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 7,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-04T11:02:21+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/az/xf/jt/azxfjtzlgug5el1p3tbsiu-tyho.jpeg\" alt=\"image\"><br>\r\n<br>\r\nПлощадка NetMarketShare <a href=\"https://netmarketshare.com/?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22browser%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22browsersDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222019-10%22%2C%22dateEnd%22%3A%222020-09%22%2C%22segments%22%3A%22-1000%22%7D\" rel=\"nofollow\">объявила</a> о планах отказаться от инструмента отчетности об использовании браузеров и ОС. Эти отчеты публиковались ежемесячно более 14 лет. Такое решение принято из-за изменения, предложенного Google. Компания в марте <a href=\"https://habr.com/ru/company/dcmiran/news/t/494362/\">объявила</a> о решении отказаться от user-agent в браузере Chrome. Вместо этого Chrome предложит <a href=\"https://wicg.github.io/ua-client-hints/\" rel=\"nofollow\">новый API Client Hints</a>. Это нововведение вызовет неточности в статистике использования браузеров, заявили в NetMarketShare.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526434": {
+            "id": "526434",
+            "timePublished": "2020-11-04T11:27:38+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Зонд «Вояджер-2» вышел на связь после восьми месяцев тишины",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 49,
+                "favoritesCount": 15,
+                "readingCount": 18196,
+                "score": 52,
+                "votesCount": 70
+            },
+            "hubs": [
+                {
+                    "id": "19395",
+                    "alias": "netdev",
+                    "type": "collective",
+                    "title": "Разработка систем связи"
+                },
+                {
+                    "id": "21962",
+                    "alias": "space",
+                    "type": "collective",
+                    "title": "Космонавтика"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 49,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-04T11:27:38+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/getpro/habr/post_images/2c7/095/ffc/2c7095ffc79ed4152f8dcf12fa60b0b1.jpg\" alt=\"image\"><br>\r\n<br>\r\nВ Лаборатория реактивного движения НАСА <a href=\"https://www.nasa.gov/feature/jpl/nasa-contacts-voyager-2-using-upgraded-deep-space-network-dish/\" rel=\"nofollow\">сообщили</a>, что удалось частично восстановить работу антенны дальней космической связи DSS43 и связаться с зондом «Вояджер-2» впервые с марта этого года. Выяснилось, что зонд функционирует нормально.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526472": {
+            "id": "526472",
+            "timePublished": "2020-11-04T16:50:22+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Беспроводная зарядка MagSafe будет заряжать iPhone 12 Mini с максимальной мощностью 12 Вт",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "login": "denis-19",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Инженер, редакция Хабра"
+            },
+            "statistics": {
+                "commentsCount": 3,
+                "favoritesCount": 3,
+                "readingCount": 4139,
+                "score": 7,
+                "votesCount": 7
+            },
+            "hubs": [
+                {
+                    "id": "21894",
+                    "alias": "gadgets",
+                    "type": "collective",
+                    "title": "Гаджеты"
+                },
+                {
+                    "id": "21908",
+                    "alias": "smartphones",
+                    "type": "collective",
+                    "title": "Смартфоны"
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 3,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-04T16:50:22+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/ed/vz/bv/edvzbvfwvtf4u2b2eh4g4mdekca.jpeg\"><br>\r\n<br>\r\nВ начале ноября 2020 года Apple <a href=\"https://support.apple.com/en-us/HT211829\" rel=\"nofollow\">уточнила</a>, что возможности беспроводной зарядки MagSafe для еще не вышедшего iPhone 12 Mini будут урезаны. Она сможет заряжать смартфон с максимальной мощностью 12 Вт, в отличии от более дорогого iPhone 12, у которого этот параметр составляет 15 Вт. <br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526522": {
+            "id": "526522",
+            "timePublished": "2020-11-05T05:40:22+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Исходные коды GitHub.com и GitHub Enterprise утекли",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "780987",
+                "login": "denis-19",
+                "alias": "denis-19",
+                "fullname": "Денис",
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/6a0/f31/235/6a0f31235bb26134f3c7a741c03e4efb.jpg",
+                "speciality": "Инженер, редакция Хабра"
+            },
+            "statistics": {
+                "commentsCount": 8,
+                "favoritesCount": 6,
+                "readingCount": 5036,
+                "score": 14,
+                "votesCount": 16
+            },
+            "hubs": [
+                {
+                    "id": "144",
+                    "alias": "open_source",
+                    "type": "collective",
+                    "title": "Open source"
+                },
+                {
+                    "id": "18790",
+                    "alias": "github",
+                    "type": "collective",
+                    "title": "GitHub"
+                },
+                {
+                    "id": "20738",
+                    "alias": "business-laws",
+                    "type": "collective",
+                    "title": "Законодательство в IT"
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "1",
+                    "alias": "develop",
+                    "title": "Разработка"
+                },
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 8,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-05T05:40:22+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/fo/ho/gv/fohogvftfgsrjynpx-d5rusrzo8.png\"><i>Противостояние разработчиков на GitHub по поводу блокировок на GitHub репозиториев проектов за нарушение действующего в США Закона об авторском праве в цифровую эпоху (DMCA) продолжается. </i><br>\r\n<br>\r\n4 ноября 2020 года пользователь под ником <a href=\"https://github.com/nat\" rel=\"nofollow\">nat</a> (якобы под учетной записью Нэта Фридмэна — руководителя GitHub) прикрепил исходные коды GitHub.com и GitHub Enterprise прямо к репозиторию, где сервис хранит <a href=\"https://github.com/github/dmca\" rel=\"nofollow\">уведомления</a> от правообладетелей. <br>\r\n<br>\r\nВдобавок там было оставлено сообщение: «felt cute, might put gh source code on dmca repo now idk». Это отсылка к мему &quot;<a href=\"https://knowyourmeme.com/memes/feeling-cute-might-delete-later\" rel=\"nofollow\">Feeling Cute, Might Delete Later</a>&quot; — когда выложенные в сети по настроению фотографии позднее удалялись пользователями по определенным соображениям. <br>\r\n<br>\r\nВ оперативном порядке специалисты GitHub <a href=\"https://github.com/github/dmca/tree/565ece486c7c1652754d7b6d2b5ed9cb4097f9d5\" rel=\"nofollow\">удалили</a> эти изменения в репозитории github/dmca. Однако, они <a href=\"https://web.archive.org/web/20201104050026if_/https://github.com/github/dmca/tree/565ece486c7c1652754d7b6d2b5ed9cb4097f9d5\" rel=\"nofollow\">остались</a> в архиве Интернета.<br>",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526524": {
+            "id": "526524",
+            "timePublished": "2020-11-05T06:19:57+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "«ВКонтакте» продала AliExpress слова «скидка» и «халява» для рекламы приложения",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 15,
+                "favoritesCount": 2,
+                "readingCount": 5320,
+                "score": 18,
+                "votesCount": 18
+            },
+            "hubs": [
+                {
+                    "id": "19341",
+                    "alias": "localization",
+                    "type": "collective",
+                    "title": "Локализация продуктов"
+                },
+                {
+                    "id": "20726",
+                    "alias": "productpm",
+                    "type": "collective",
+                    "title": "Управление продуктом"
+                },
+                {
+                    "id": "20728",
+                    "alias": "sales",
+                    "type": "collective",
+                    "title": "Управление продажами"
+                },
+                {
+                    "id": "21924",
+                    "alias": "social_networks",
+                    "type": "collective",
+                    "title": "Социальные сети и сообщества"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 15,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-05T06:19:57+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/z_/cd/dz/z_cddzoihnbpvejqzchmv_avgd8.png\" alt=\"image\"><br>\r\n<br>\r\nАдминистраторы сообществ «ВКонтакте» <a href=\"https://roem.ru/04-11-2020/283932/vk-ali-sale-1111/\" rel=\"nofollow\">заметили</a>, что некоторые слова, например, «распродажа», «скидка» и «халява», начали выделять красным. Эти слова стали кликабельными, а ссылка уводит пользователей в мини-приложение AliExpress.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526532": {
+            "id": "526532",
+            "timePublished": "2020-11-05T07:32:40+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Астрономы зафиксировали быстрые радиовсплески в пределах Млечного Пути и нашли их источник",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 2,
+                "favoritesCount": 0,
+                "readingCount": 2482,
+                "score": 2,
+                "votesCount": 2
+            },
+            "hubs": [
+                {
+                    "id": "21910",
+                    "alias": "popular_science",
+                    "type": "collective",
+                    "title": "Научно-популярное"
+                },
+                {
+                    "id": "21968",
+                    "alias": "physics",
+                    "type": "collective",
+                    "title": "Физика"
+                },
+                {
+                    "id": "22022",
+                    "alias": "astronomy",
+                    "type": "collective",
+                    "title": "Астрономия"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 2,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-05T07:32:40+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/getpro/habr/post_images/054/1a4/988/0541a498844013af918dd470bb32b18b.jpg\" alt=\"image\"><br>\r\n<br>\r\nАстрономы с 2007 года <a href=\"https://habr.com/ru/post/400319/\">фиксировали</a> быстрые радиовсплески. В этом году они впервые определили источник FRB 200428 в пределах Млечного Пути. Ученые <a href=\"https://www.nature.com/articles/d41586-020-03018-5\" rel=\"nofollow\">опубликовали</a> результаты анализа наблюдений за магнитаром SGR 1935+2154. Они делают вывод, что именно он стал источником подобных всплесков. По словам ученых, излучение может генерироваться внутри магнитосферы нейтронной звезды.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526534": {
+            "id": "526534",
+            "timePublished": "2020-11-05T08:02:57+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Российский IT-бизнес попросил не поддерживать законопроект об ограничениях магазинов Apple и Google",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 1,
+                "favoritesCount": 1,
+                "readingCount": 1386,
+                "score": 5,
+                "votesCount": 5
+            },
+            "hubs": [
+                {
+                    "id": "20706",
+                    "alias": "mobile_monetization",
+                    "type": "collective",
+                    "title": "Монетизация мобильных приложений"
+                },
+                {
+                    "id": "20738",
+                    "alias": "business-laws",
+                    "type": "collective",
+                    "title": "Законодательство в IT"
+                },
+                {
+                    "id": "22026",
+                    "alias": "itcompanies",
+                    "type": "collective",
+                    "title": "IT-компании"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "4",
+                    "alias": "marketing",
+                    "title": "Маркетинг"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 1,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-05T08:02:57+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/webt/yx/mz/-w/yxmz-w-juezrtagywzkb93i36rs.jpeg\" alt=\"image\"><br>\r\n<br>\r\nРоссийский IT-бизнес <a href=\"https://www.kommersant.ru/doc/4559006\" rel=\"nofollow\">обратился</a> к Минцифры с просьбой дать отрицательное заключение по законопроекту, который обязывает Apple и Google разрешить установку сторонних магазинов приложений и снизить комиссию для разработчиков с 30% до 20%. Бизнесмены опасаются ухода IT-гигантов из России из-за введения подобных ограничений.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        },
+        "526568": {
+            "id": "526568",
+            "timePublished": "2020-11-05T09:51:21+00:00",
+            "isCorporative": false,
+            "lang": "ru",
+            "titleHtml": "Биткоины Silk Road на $1 млрд переместили в другой кошелек",
+            "editorVersion": "1.0",
+            "postType": "news",
+            "postLabels": [],
+            "author": {
+                "id": "2176401",
+                "login": "maybe_elf",
+                "alias": "maybe_elf",
+                "fullname": null,
+                "avatarUrl": "//habrastorage.org/getpro/habr/avatars/592/11d/4bc/59211d4bcd7f9afdadaef515b2b0706d.jpg",
+                "speciality": "пишу новости"
+            },
+            "statistics": {
+                "commentsCount": 0,
+                "favoritesCount": 0,
+                "readingCount": 192,
+                "score": 0,
+                "votesCount": 0
+            },
+            "hubs": [
+                {
+                    "id": "20738",
+                    "alias": "business-laws",
+                    "type": "collective",
+                    "title": "Законодательство в IT"
+                },
+                {
+                    "id": "21986",
+                    "alias": "cryptocurrency",
+                    "type": "collective",
+                    "title": "Криптовалюты"
+                }
+            ],
+            "flows": [
+                {
+                    "id": "3",
+                    "alias": "management",
+                    "title": "Менеджмент"
+                },
+                {
+                    "id": "7",
+                    "alias": "popsci",
+                    "title": "Научпоп"
+                }
+            ],
+            "relatedData": {
+                "unreadCommentsCount": 0,
+                "vote": {
+                    "value": null,
+                    "voteTimeExpired": "2020-12-05T09:51:21+00:00"
+                },
+                "bookmarked": false,
+                "сanComment": true,
+                "сanEdit": false,
+                "canVote": true,
+                "canViewVotes": false
+            },
+            "leadData": {
+                "textHtml": "<img src=\"https://habrastorage.org/getpro/habr/post_images/c83/a56/bd6/c83a56bd61efcbd790a6927cc3a5ac74.jpg\" alt=\"image\"><sub><font color=\"grey\"><i>Фото: coinnounce.com</i></font></sub><br>\r\n<br>\r\nПо информации блокчейн-трекера Elliptic, около 69 369 биткоинов (примерно $1 млрд) были выведены с неизвестного кошелька, возможно, связанного с площадкой Silk Road, <a href=\"https://www.theguardian.com/technology/2020/nov/04/silk-road-bitcoins-worth-1bn-change-hands-after-seven-years\" rel=\"nofollow\">пишет</a> The Guardian. Сайт, который <a href=\"https://habr.com/ru/post/190220/\">предлагал</a> различные товары и услуги, в том числе наркотики и заказные убийства, был закрыт в 2013 году. Его создатель <a href=\"https://habr.com/ru/post/196464/\">Росс Ульбрихт</a> <a href=\"https://habr.com/ru/post/356762/\">получил</a> двойной пожизненный срок без возможности УДО.",
+                "imageUrl": null,
+                "buttonTextHtml": "Читать дальше &rarr;",
+                "image": null
+            }
+        }
+    },
+    "articleIds": [
+        "526568",
+        "526534",
+        "526532",
+        "526524",
+        "526522",
+        "526472",
+        "526434",
+        "526428",
+        "526412",
+        "526404",
+        "526376",
+        "526358",
+        "526352",
+        "526318",
+        "526314",
+        "526292",
+        "526272",
+        "526270",
+        "526258",
+        "526254"
+    ],
+    "pagesCount": 50
+}
