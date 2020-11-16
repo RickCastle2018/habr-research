@@ -8,7 +8,7 @@ def news():
     def cleanhtml(raw_html):
         cleanr = re.compile('<.*?>')
         cleantext = re.sub(cleanr, '', raw_html)
-        return cleantext.replace("\r\n\r\n", "")
+        return cleantext.replace("\r\n", "")
 
     def get_page(num):
         API_URL = 'https://m.habr.com/kek/v2/articles?fl=ru&hl=ru&news=true&page=%d' % (num)
