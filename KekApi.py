@@ -17,6 +17,14 @@ def news():
             json = response.json()
             return json
 
+    def full_text(id):
+        API_URL = 'https://m.habr.com/kek/v2/articles/%d' % (id)
+        response = r.get(API_URL)
+        if response.status_code == 200:
+            json = response.json()
+            text = json['textHtml']
+            return text
+
     pages = get_page(1)['pagesCount']
 
     news = []
@@ -33,7 +41,9 @@ def news():
             piece_of_news['favorites'] = ref['statistics']['favoritesCount']
             piece_of_news['comments'] = ref['statistics']['commentsCount']
             piece_of_news['pubdate'] = ref['timePublished']
-            piece_of_news['text'] = cleanhtml(ref['leadData']['textHtml'])
+            piece_of_news['teaser'] = cleanhtml(ref['leadData']['textHtml'])
+            piece_of_news['header'] = cleanhtml(ref['titleHtml'])
+            piece_of_news['text'] = cleanhtml(full_text(int(ref['id'])))
 
             news.append(piece_of_news)
             count = count + 1
