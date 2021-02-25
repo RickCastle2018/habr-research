@@ -4,6 +4,7 @@ from fake_useragent import UserAgent
 import json
 import datetime
 
+#Unfixed feature: you should delete last "," in output
 
 def news():
 
